@@ -1,0 +1,1 @@
+⚡ Pipeline for storing real-time, streamed tweets (using tweepy API) into a NoSQL database MongoDB. for performing Sentiment Analysis.
